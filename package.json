@@ -16,3 +16,13 @@
     "vite": "^4.3.9"
   }
 }
+
+//.json
+"devDependencies": {
+      "execa": "latest"
+    }
+
+//.json
+"scripts": {
+     "deploy": "node scripts/gh-pages-deploy.js"
+    }
